@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes TechMart retail business data using SQL to extract meaningful business insights from relational datasets.
+This project analyzes TechMart retail business data using SQL. The objective is to extract meaningful business insights by writing optimized SQL queries on structured relational datasets. The project focuses on data exploration, aggregation, filtering, joins, and performance-oriented query writing.
 
 This project was completed as part of a SQL assignment provided by Sabudh Foundation.
 
